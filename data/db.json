@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id":10001,
+            "name":"React hand book",
+            "price":19,
+            "inStock":true
+        },
+        {
+            "id":10002,
+            "name":"Angular hand book",
+            "price":112,
+            "inStock":true
+        },
+        {
+            "id":10003,
+            "name":"Phython developer series",
+            "price":49,
+            "inStock":false
+        },
+        {
+            "id":10004,
+            "name":"Java cook book",
+            "price":39,
+            "inStock":true
+        },
+        {
+            "id":10005,
+            "name":"C# complete reference",
+            "price":119,
+            "inStock":false
+        }
+    ]
+}
